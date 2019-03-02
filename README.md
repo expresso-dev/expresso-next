@@ -16,12 +16,12 @@ template using next.js framework
 ## Installation
 
 * clone the repo
-* `yarn`
+* install dependencies with `yarn`
 
 ## Development
 
 * read the [docs](https://github.com/zeit/next.js)
-* `npm run dev`
+* `yarn run dev`
 * visit `http://localhost:3000/`
 
 ## Building & Running Production
