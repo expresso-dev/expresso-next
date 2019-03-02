@@ -1,5 +1,7 @@
 # Next.js Setup 
 
+template using next.js framework 
+
 ## Features
 
 * Next.js
@@ -16,8 +18,9 @@
 * clone the repo
 * yarn
 
-## Building
+## Development
 
+* read the [docs](https://github.com/zeit/next.js)
 * npm run dev
 * visit `http://localhost:3000/`
 
