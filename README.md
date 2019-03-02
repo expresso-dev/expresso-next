@@ -16,17 +16,17 @@ template using next.js framework
 ## Installation
 
 * clone the repo
-* yarn
+* `yarn`
 
 ## Development
 
 * read the [docs](https://github.com/zeit/next.js)
-* npm run dev
+* `npm run dev`
 * visit `http://localhost:3000/`
 
 ## Building & Running Production
 
-* npm run build
-* npm run start
+* `npm run build`
+* `npm run start`
 * visit `http://localhost:3000/`
 * alternatively configure /etc/hosts file
