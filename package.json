@@ -1,0 +1,32 @@
+{
+  "name": "expresso-next",
+  "version": "1.0.0",
+  "description": "expresso template for next apps",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expresso-dev/expresso-next.git"
+  },
+  "keywords": [
+    "next.js",
+    "react",
+    "javascript",
+    "zeit"
+  ],
+  "author": "James Peters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/expresso-dev/expresso-next/issues"
+  },
+  "homepage": "https://github.com/expresso-dev/expresso-next#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
