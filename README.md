@@ -1,4 +1,4 @@
-# Next.js Setup 
+# Expresso Next Template
 
 ![react-16](https://img.shields.io/badge/v16.8-React-blue.svg)
 ![next-js](https://img.shields.io/badge/v8.0-NextJS-brightgreen.svg)
