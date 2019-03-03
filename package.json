@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
+    "test": "jest",
     "start": "NODE_ENV=production node server.js"
   },
   "repository": {
