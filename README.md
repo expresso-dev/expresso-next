@@ -1,5 +1,10 @@
 # Next.js Setup 
 
+![react-16](https://img.shields.io/badge/v16.8-React-blue.svg)
+![next-js](https://img.shields.io/badge/v8.0-NextJS-brightgreen.svg)
+![express-js](https://img.shields.io/badge/v4.16-Express-lightgrey.svg)
+![serverless](https://img.shields.io/badge/-serverless-red.svg)
+
 template using next.js framework 
 
 ## Features
