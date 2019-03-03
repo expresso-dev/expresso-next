@@ -7,7 +7,9 @@
     "dev": "next",
     "build": "next build",
     "test": "jest",
-    "start": "NODE_ENV=production node server.js"
+    "start": "NODE_ENV=production node server.js",
+    "up": "up",
+    "down": "up stack delete"
   },
   "repository": {
     "type": "git",
