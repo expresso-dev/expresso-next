@@ -24,12 +24,22 @@
 ## Development
 
 * read the [docs](https://github.com/zeit/next.js)
-* `yarn run dev`
+* `yarn dev`
 * visit `http://localhost:3000/`
 
 ## Building & Running Production
 
-* `npm run build`
-* `npm run start`
+* `yarn build`
+* `yarn start`
 * visit `http://localhost:3000/`
 * alternatively configure /etc/hosts file
+
+## Deploying to AWS Lambda
+
+* make sure you credentials are saved in `~/.aws/credentials`
+* install up on your path [(up repository here)](https://github.com/apex/up)
+* `yarn up`
+
+## Deleting stack on AWS
+
+* `yarn down`
