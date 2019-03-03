@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "now-build": "next build"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
   "homepage": "https://github.com/expresso-dev/expresso-next#readme",
   "dependencies": {
     "next": "^8.0.3",
+    "now": "^14.0.2",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   }
