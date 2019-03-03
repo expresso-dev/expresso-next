@@ -5,8 +5,6 @@
 ![express-js](https://img.shields.io/badge/v4.16-Express-lightgrey.svg)
 ![serverless](https://img.shields.io/badge/-serverless-red.svg)
 
-template using next.js framework 
-
 ## Features
 
 * Next.js
