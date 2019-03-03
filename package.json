@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "NODE_ENV=production node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,8 +15,7 @@
   "keywords": [
     "next.js",
     "react",
-    "javascript",
-    "zeit"
+    "express js"
   ],
   "author": "James Peters",
   "license": "ISC",
@@ -25,6 +24,7 @@
   },
   "homepage": "https://github.com/expresso-dev/expresso-next#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "next": "^8.0.3",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
